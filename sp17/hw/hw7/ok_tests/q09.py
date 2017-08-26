@@ -6,12 +6,8 @@ test = {
       'cases': [
         {  
           'code': r"""
-          >>> import pandas as pd
-          >>> d = pd.read_csv('q09.csv')
-          >>> len(d)
-          10
-          >>> np.all(d.sum() == [1544, 1440, 1268])
-          True""",
+      True
+          True         True""",
           'hidden': False,
           'locked': False
         },
